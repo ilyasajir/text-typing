@@ -33,7 +33,7 @@ body{
   font-weight: 500;
   position: relative;
   top: 0;
-  animation: slide 12s steps(2) infinite;
+  animation: slide 10s steps(3) infinite;
 }
 @keyframes slide {
   100%{
